@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.springframework:spring-jdbc:4.3.0.SPR-13777-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-jdbc/4.3.0.SPR-13777-SNAPSHOT/1e06dfffaa46e6dc4c62d5373c06daf2f720940/spring-jdbc-4.3.0.SPR-13777-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-jdbc/4.3.0.SPR-13777-SNAPSHOT/f46202d498d2a5ec435efe3d3ac2664714df7482/spring-jdbc-4.3.0.SPR-13777-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

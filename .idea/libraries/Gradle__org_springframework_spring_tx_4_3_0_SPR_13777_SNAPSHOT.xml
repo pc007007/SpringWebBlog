@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.springframework:spring-tx:4.3.0.SPR-13777-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-tx/4.3.0.SPR-13777-SNAPSHOT/54781d7d4f5cd5c5c12c83b8be4f48ada505ed1b/spring-tx-4.3.0.SPR-13777-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-tx/4.3.0.SPR-13777-SNAPSHOT/71de7a9ba29e47c991956d86a281716dbeea2b4f/spring-tx-4.3.0.SPR-13777-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

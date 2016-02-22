@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.pygments:pygments:2.0.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.pygments/pygments/2.0.2/462a6c9d635a5d65a44409778eb0b14f04c3f683/pygments-2.0.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.pygments/pygments/2.0.2/53f6aef7c9274ee6770f8fbeb71a2c9335a1ab6a/pygments-2.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
